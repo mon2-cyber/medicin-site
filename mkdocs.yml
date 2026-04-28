@@ -4,60 +4,60 @@ nav:
 - Sjukhus: Sjukhus.md
 - Arbetssida: arbetssida.md
 - Primärvård:
-     - Allmän information: 
-         - Checklista: checklista.md
-         - Bra att veta: bra-att-veta.md
-     - Folksjukdomar: folksjukdomar.md
-     - Sjukdomar och handläggning:
-          - Allergologi: allergologi.md
-             - Allergisk rinit: allergisk-rinit.md
-             - Allergier: allergier.md
-          - Dermatologi: dermatologi.md
-          - Endokrinologi: endokrinologi.md
-          - Gastroenterologi: gastroenterologi.md
-             - Dyspepsi: dyspepsi.md
-          - Gynekologi: gynekologi.md
-          - Hematologi: hematologi.md
-          - Infektionsmedicin: infektionsmedicin.md
-             - Mononukleos: mononukleos.md
-             - Pneumoni: pneumoni.md
-          - Kardiologi: kardiologi.md
-             - Hypertoni: hypertoni.md
-             - Arytmi: arytmi.md
-             - Blåsljud och hjärtklappningar: blasljud-och-hjartklappningar.md
-          - Neurologi: neurologi.md
-             - Spänningshuvudvärk: spanningshuvudvark.md
-             - Migrän: migran.md
-             - Polyneuropati: polyneuropati.md
-          - Nefrologi: nefrologi.md
-          - Oftalmologi: oftalmologi.md
-          - Ortopedi: ortopedi.md
-             - de Quervain: de-quervain.md
-             - Ulnariskompression: ulnariskompression.md
-             - Handledsfrakturer: handledsfrakturer.md
-             - Knä-problematik: kna-problematik.md
-          - Pediatri:
-              - Förstoppning: forstoppning.md
-              - Huvudvärk: huvudvark.md
-              - Trötthet: trotthet.md
-              - Feber: feber.md
-          - Psykiatri: psykiatri.md
-              - Utmattningssyndrom: utmattningssyndrom.md
-              - Depression: depression.md
-              - Ångest: angest.md
-          - Pulmonologi: pulmonologi.md
-             - Bronkit: bronkit.md
-             - KOL: kol.md
-             - KOL-excerbation: kol-excerbation.md
-             - LE: le.md
-          - Reumatologi: reumatologi.md
-          - Urologi: urologi.md
-             - Urinvägsinfektion hos män: urinvagsinfektion.md
-             - Urinvägsinfektion hos kvinnor (komplicerade): urinvagsinfektion-kvinnor.md
-          - ÖNH: onh.md
-             - Sinuit: sinuit.md
-             - Faryngotonsillit: faryngotonsillit.md
-             - Akut mediaotit: akut-mediaotit.md
-             - Extern otit: extern-otit.md
+  - Allmän information:
+    - Checklista: checklista.md
+    - Bra att veta: bra-att-veta.md
+  - Folksjukdomar: folksjukdomar.md
+  - Sjukdomar och handläggning:
+    - Allergologi: allergologi.md
+      - Allergisk rinit: allergisk-rinit.md
+      - Allergier: allergier.md
+    - Dermatologi: dermatologi.md
+    - Endokrinologi: endokrinologi.md
+    - Gastroenterologi: gastroenterologi.md
+      - Dyspepsi: dyspepsi.md
+    - Gynekologi: gynekologi.md
+    - Hematologi: hematologi.md
+    - Infektionsmedicin: infektionsmedicin.md
+      - Mononukleos: mononukleos.md
+      - Pneumoni: pneumoni.md
+    - Kardiologi: kardiologi.md
+      - Hypertoni: hypertoni.md
+      - Arytmi: arytmi.md
+      - Blåsljud och hjärtklappningar: blasljud-och-hjartklappningar.md
+    - Neurologi: neurologi.md
+      - Spänningshuvudvärk: spanningshuvudvark.md
+      - Migrän: migran.md
+      - Polyneuropati: polyneuropati.md
+    - Nefrologi: nefrologi.md
+    - Oftalmologi: oftalmologi.md
+    - Ortopedi: ortopedi.md
+      - de Quervain: de-quervain.md
+      - Ulnariskompression: ulnariskompression.md
+      - Handledsfrakturer: handledsfrakturer.md
+      - Knä-problematik: kna-problematik.md
+    - Pediatri:
+      - Förstoppning: forstoppning.md
+      - Huvudvärk: huvudvark.md
+      - Trötthet: trotthet.md
+      - Feber: feber.md
+    - Psykiatri: psykiatri.md
+      - Utmattningssyndrom: utmattningssyndrom.md
+      - Depression: depression.md
+      - Ångest: angest.md
+    - Pulmonologi: pulmonologi.md
+      - Bronkit: bronkit.md
+      - KOL: kol.md
+      - KOL-excerbation: kol-excerbation.md
+      - LE: le.md
+    - Reumatologi: reumatologi.md
+    - Urologi: urologi.md
+      - Urinvägsinfektion hos män: urinvagsinfektion.md
+      - Urinvägsinfektion hos kvinnor (komplicerade): urinvagsinfektion-kvinnor.md
+    - ÖNH: onh.md
+      - Sinuit: sinuit.md
+      - Faryngotonsillit: faryngotonsillit.md
+      - Akut mediaotit: akut-mediaotit.md
+      - Extern otit: extern-otit.md
              
 
