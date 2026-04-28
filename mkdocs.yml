@@ -1,0 +1,30 @@
+site_name: Nyexaminerad till Legitimation
+nav:
+- Start: index.md
+- Sjukhus: Sjukhus.md
+- Arbetssida: arbetssida.md
+- Primärvård:
+     - Allmän information: 
+         - Checklista: checklista.md
+         - Bra att veta: bra-att-veta.md
+     - Folksjukdomar: folksjukdomar.md
+     - Sjukdomar och handläggning:
+          - Dermatologi: dermatologi.md
+          - Endokrinologi: endokrinologi.md
+          - Gastroenterologi: gastroenterologi.md
+          - Gynekologi: gynekologi.md
+          - Hematologi: hematologi.md
+          - Kardiologi: kardiologi.md
+          - Neurologi: neurologi.md
+          - Nefrologi: nefrologi.md
+          - Oftalmologi: oftalmologi.md
+          - Ortopedi: ortopedi.md
+          - Pediatri:
+              - Förstoppning: forstoppning.md
+              - Huvudvärk: huvudvark.md
+          - Psykiatri: psykiatri.md
+          - Pulmonologi: pulmonologi.md
+          - Reumatologi: reumatologi.md
+          - Urologi: urologi.md
+          - ÖNH: onh.md
+
