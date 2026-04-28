@@ -59,5 +59,6 @@ nav:
       - Faryngotonsillit: faryngotonsillit.md
       - Akut mediaotit: akut-mediaotit.md
       - Extern otit: extern-otit.md
-             
+
+theme: material
 
