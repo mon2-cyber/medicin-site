@@ -9,29 +9,29 @@ nav:
     - Bra att veta: bra-att-veta.md
   - Folksjukdomar: folksjukdomar.md
   - Sjukdomar och handläggning:
-    - Allergologi: allergologi.md
+    - Allergologi:
       - Allergisk rinit: allergisk-rinit.md
       - Allergier: allergier.md
     - Dermatologi: dermatologi.md
     - Endokrinologi: endokrinologi.md
-    - Gastroenterologi: gastroenterologi.md
+    - Gastroenterologi:
       - Dyspepsi: dyspepsi.md
     - Gynekologi: gynekologi.md
     - Hematologi: hematologi.md
-    - Infektionsmedicin: infektionsmedicin.md
+    - Infektionsmedicin:
       - Mononukleos: mononukleos.md
       - Pneumoni: pneumoni.md
-    - Kardiologi: kardiologi.md
+    - Kardiologi:
       - Hypertoni: hypertoni.md
       - Arytmi: arytmi.md
       - Blåsljud och hjärtklappningar: blasljud-och-hjartklappningar.md
-    - Neurologi: neurologi.md
+    - Neurologi:
       - Spänningshuvudvärk: spanningshuvudvark.md
       - Migrän: migran.md
       - Polyneuropati: polyneuropati.md
     - Nefrologi: nefrologi.md
     - Oftalmologi: oftalmologi.md
-    - Ortopedi: ortopedi.md
+    - Ortopedi:
       - de Quervain: de-quervain.md
       - Ulnariskompression: ulnariskompression.md
       - Handledsfrakturer: handledsfrakturer.md
@@ -41,20 +41,20 @@ nav:
       - Huvudvärk: huvudvark.md
       - Trötthet: trotthet.md
       - Feber: feber.md
-    - Psykiatri: psykiatri.md
+    - Psykiatri:
       - Utmattningssyndrom: utmattningssyndrom.md
       - Depression: depression.md
       - Ångest: angest.md
-    - Pulmonologi: pulmonologi.md
+    - Pulmonologi:
       - Bronkit: bronkit.md
       - KOL: kol.md
       - KOL-excerbation: kol-excerbation.md
       - LE: le.md
     - Reumatologi: reumatologi.md
-    - Urologi: urologi.md
+    - Urologi:
       - Urinvägsinfektion hos män: urinvagsinfektion.md
       - Urinvägsinfektion hos kvinnor (komplicerade): urinvagsinfektion-kvinnor.md
-    - ÖNH: onh.md
+    - ÖNH:
       - Sinuit: sinuit.md
       - Faryngotonsillit: faryngotonsillit.md
       - Akut mediaotit: akut-mediaotit.md
